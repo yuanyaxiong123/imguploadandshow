@@ -1,0 +1,2 @@
+# imguploadandshow
+利用input的files对象，FileReader以及 window.url对象实现图片上传回显
